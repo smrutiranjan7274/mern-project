@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/frontend/build/static/css/main.899949c1.css",
-    "main.js": "/frontend/build/static/js/main.6b5250fa.js",
-    "index.html": "/frontend/build/index.html",
-    "main.899949c1.css.map": "/frontend/build/static/css/main.899949c1.css.map",
-    "main.6b5250fa.js.map": "/frontend/build/static/js/main.6b5250fa.js.map"
+    "main.css": "/mern-project/static/css/main.899949c1.css",
+    "main.js": "/mern-project/static/js/main.6b5250fa.js",
+    "index.html": "/mern-project/index.html",
+    "main.899949c1.css.map": "/mern-project/static/css/main.899949c1.css.map",
+    "main.6b5250fa.js.map": "/mern-project/static/js/main.6b5250fa.js.map"
   },
   "entrypoints": [
     "static/css/main.899949c1.css",
