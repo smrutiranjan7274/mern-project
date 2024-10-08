@@ -61,6 +61,7 @@ const UpdatePlace = () => {
   const placeUpdateHandler = (event) => {
     event.preventDefault();
     console.log(formState.inputs); //update in the backend
+    alert(`Title: ${formState.inputs.title.value}\nDescription: ${formState.inputs.description.value}\n\nUpdated Successfully`); // send this to the backend!
   };
 
   if (!identifiedPlace) {

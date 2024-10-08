@@ -31,6 +31,7 @@ const NewPlace = () => {
   const placeSubmitHandler = (event) => {
     event.preventDefault();
     console.log(formState.inputs); // send this to the backend!
+    alert(`Title: ${formState.inputs.title.value}\nDescription: ${formState.inputs.description.value}\nAddress: ${formState.inputs.address.value}\n\nAdded Successfully`); // send this to the backend!
   };
 
   return (
