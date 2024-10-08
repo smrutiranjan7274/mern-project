@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/places-app/static/css/main.899949c1.css",
-    "main.js": "/places-app/static/js/main.6b5250fa.js",
-    "index.html": "/places-app/index.html",
-    "main.899949c1.css.map": "/places-app/static/css/main.899949c1.css.map",
-    "main.6b5250fa.js.map": "/places-app/static/js/main.6b5250fa.js.map"
+    "main.css": "/frontend/static/css/main.899949c1.css",
+    "main.js": "/frontend/static/js/main.6b5250fa.js",
+    "index.html": "/frontend/index.html",
+    "main.899949c1.css.map": "/frontend/static/css/main.899949c1.css.map",
+    "main.6b5250fa.js.map": "/frontend/static/js/main.6b5250fa.js.map"
   },
   "entrypoints": [
     "static/css/main.899949c1.css",
