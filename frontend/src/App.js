@@ -26,7 +26,7 @@ const App = () => {
           <Route path="/places/new" exact>
             <NewPlace />
           </Route>
-          <Redirect to="/mern-project" />
+          <Redirect to="/" />
         </Switch>
       </main>
     </Router>
